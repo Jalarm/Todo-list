@@ -1,0 +1,12 @@
+.form-group > .form-control {
+  border-radius: 50px 0 0 50px;
+}
+
+.sort > button:last-child {
+  border-radius: 0 50px 50px 0;
+}
+.search-input {
+  width: auto;
+  flex-grow: 1;
+  margin-right: 3px;
+}
